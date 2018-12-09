@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GTnode/xel-cold-storage/master/shield.png" width="150" title="Logo">
-</p>
-------
-<center>
-<h4>XEL COLD STORAGE</h4>
-</center>
+
+<img src="shield.png" width="100">
+
+
+# Shield cold storage
+
+
+* OFFLINE creation of accounts for cold storage. With SHIELD, the passphrase to your brain wallet is NEVER exposed to anyone on the internet .
+
+* Essentially, sending XEL and using Smart Transactions on the XEL Platform is 100% safe, as all can be signed OFFLINE. You can send XEL, send public or encrypted messages .
+
