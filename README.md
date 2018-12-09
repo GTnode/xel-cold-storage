@@ -1,5 +1,7 @@
+<p align="center"> 
+<img src="shield.png" width="100">
+</p>
 
-<img src="shield.png" width="100" align="middle">
 
 
 ### Shield - cold storage
@@ -12,4 +14,7 @@
 
 ### Shield - cold storage Screenshot
 
-<img src="2018-12-09.jpg" width="750" align="middle">
+<p align="center"> 
+<img src="2018-12-09.jpg" width="100">
+</p>
+
