@@ -23,5 +23,4 @@
 <img src="screenshot.jpg" width="650">
 </p>
 
-* V 1.2
 <a href="https://github.com/GTnode/xel-cold-storage/blob/master/LICENSE.txt" title=""><img src="http://img.shields.io/:license-mit-blue.svg" alt="license"></a>
