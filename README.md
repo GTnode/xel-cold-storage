@@ -10,11 +10,11 @@
 
 # Software Futuritys
 
+* Account Creation
+* Login to Cold Storage Account
 * Send Xel
 * Signing 
-* Account Creation
 * Broadcast Transaction
-* Login to Cold Storage Account
 
 # Shield - cold storage Screenshot
 
