@@ -8,7 +8,7 @@
 
 * Essentially, sending XEL and using Smart Transactions on the XEL Platform is 100% safe, as all can be signed OFFLINE. You can send XEL, send public or encrypted messages .
 
-# OFFLINE
+# Software Futuritys
 
 * Send Xel
 * Signing 
