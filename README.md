@@ -11,6 +11,6 @@
 # Shield - cold storage Screenshot
 
 <p align="center"> 
-<img src="2018-12-09.jpg" width="650">
+<img src="screenshot.jpg" width="650">
 </p>
 
