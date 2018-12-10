@@ -15,6 +15,7 @@
 * Send Xel
 * Signing 
 * Broadcast Transaction
+* Token Generation
 
 # Shield - cold storage Screenshot
 
